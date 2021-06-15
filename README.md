@@ -1,0 +1,1 @@
+SMILES 를 입력하여 property 를 예측할 수 있도록 LSTM 회귀 모델 생성
